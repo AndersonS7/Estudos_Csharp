@@ -48,7 +48,7 @@ public class Player : MonoBehaviour
             Victory();
             GameOver();
             CheckInput();
-            DecrementFuel();
+            //DecrementFuel();
             //OnMove();
         }   
     }

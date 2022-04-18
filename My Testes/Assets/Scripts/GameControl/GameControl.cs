@@ -8,6 +8,8 @@ public class GameControl : MonoBehaviour
     private float countStart;
     private Player player;
 
+    public bool isInitiActive;
+
     void Awake()
     {
         countStart = 3;
@@ -16,7 +18,10 @@ public class GameControl : MonoBehaviour
 
     void Update()
     {
-        StartGame();
+        if (isInitiActive)
+        {
+            StartGame();
+        }
     }
 
     private void StartGame()
