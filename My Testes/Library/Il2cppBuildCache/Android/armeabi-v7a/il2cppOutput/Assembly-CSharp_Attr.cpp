@@ -350,6 +350,48 @@ static void AssemblyU2DCSharp_CustomAttributesCacheGenerator(CustomAttributesCac
 		DebuggableAttribute__ctor_m7FF445C8435494A4847123A668D889E692E55550(tmp, 2LL, NULL);
 	}
 }
+static void CreateObj_tE5A8242D30AD1539E996C4833344AFAE638B2E8F_CustomAttributesCacheGenerator_wallPrefab(CustomAttributesCache* cache)
+{
+	{
+		SerializeField_t6B23EE6CC99B21C3EBD946352112832A70E67E25 * tmp = (SerializeField_t6B23EE6CC99B21C3EBD946352112832A70E67E25 *)cache->attributes[0];
+		SerializeField__ctor_mDE6A7673BA2C1FAD03CFEC65C6D473CC37889DD3(tmp, NULL);
+	}
+}
+static void CreateObj_tE5A8242D30AD1539E996C4833344AFAE638B2E8F_CustomAttributesCacheGenerator_points(CustomAttributesCache* cache)
+{
+	{
+		SerializeField_t6B23EE6CC99B21C3EBD946352112832A70E67E25 * tmp = (SerializeField_t6B23EE6CC99B21C3EBD946352112832A70E67E25 *)cache->attributes[0];
+		SerializeField__ctor_mDE6A7673BA2C1FAD03CFEC65C6D473CC37889DD3(tmp, NULL);
+	}
+}
+static void CreateObj_tE5A8242D30AD1539E996C4833344AFAE638B2E8F_CustomAttributesCacheGenerator_pointsFuel(CustomAttributesCache* cache)
+{
+	{
+		SerializeField_t6B23EE6CC99B21C3EBD946352112832A70E67E25 * tmp = (SerializeField_t6B23EE6CC99B21C3EBD946352112832A70E67E25 *)cache->attributes[0];
+		SerializeField__ctor_mDE6A7673BA2C1FAD03CFEC65C6D473CC37889DD3(tmp, NULL);
+	}
+}
+static void CreateObj_tE5A8242D30AD1539E996C4833344AFAE638B2E8F_CustomAttributesCacheGenerator_timeCountLimit(CustomAttributesCache* cache)
+{
+	{
+		SerializeField_t6B23EE6CC99B21C3EBD946352112832A70E67E25 * tmp = (SerializeField_t6B23EE6CC99B21C3EBD946352112832A70E67E25 *)cache->attributes[0];
+		SerializeField__ctor_mDE6A7673BA2C1FAD03CFEC65C6D473CC37889DD3(tmp, NULL);
+	}
+}
+static void CreateObj_tE5A8242D30AD1539E996C4833344AFAE638B2E8F_CustomAttributesCacheGenerator_timeCountLimitFuel(CustomAttributesCache* cache)
+{
+	{
+		SerializeField_t6B23EE6CC99B21C3EBD946352112832A70E67E25 * tmp = (SerializeField_t6B23EE6CC99B21C3EBD946352112832A70E67E25 *)cache->attributes[0];
+		SerializeField__ctor_mDE6A7673BA2C1FAD03CFEC65C6D473CC37889DD3(tmp, NULL);
+	}
+}
+static void CreateObj_tE5A8242D30AD1539E996C4833344AFAE638B2E8F_CustomAttributesCacheGenerator_fuelPrefab(CustomAttributesCache* cache)
+{
+	{
+		SerializeField_t6B23EE6CC99B21C3EBD946352112832A70E67E25 * tmp = (SerializeField_t6B23EE6CC99B21C3EBD946352112832A70E67E25 *)cache->attributes[0];
+		SerializeField__ctor_mDE6A7673BA2C1FAD03CFEC65C6D473CC37889DD3(tmp, NULL);
+	}
+}
 static void GameControl_t8DAFC60E5E51F6D61D77F480B91691765270D43A_CustomAttributesCacheGenerator_startGame(CustomAttributesCache* cache)
 {
 	{
@@ -364,6 +406,20 @@ static void GameControl_t8DAFC60E5E51F6D61D77F480B91691765270D43A_CustomAttribut
 		SerializeField__ctor_mDE6A7673BA2C1FAD03CFEC65C6D473CC37889DD3(tmp, NULL);
 	}
 }
+static void GameControl_t8DAFC60E5E51F6D61D77F480B91691765270D43A_CustomAttributesCacheGenerator_countProgressTxt(CustomAttributesCache* cache)
+{
+	{
+		SerializeField_t6B23EE6CC99B21C3EBD946352112832A70E67E25 * tmp = (SerializeField_t6B23EE6CC99B21C3EBD946352112832A70E67E25 *)cache->attributes[0];
+		SerializeField__ctor_mDE6A7673BA2C1FAD03CFEC65C6D473CC37889DD3(tmp, NULL);
+	}
+}
+static void Scenary_tE44B449A3DB988D449CB65231127C22462D1BCD0_CustomAttributesCacheGenerator_speed(CustomAttributesCache* cache)
+{
+	{
+		SerializeField_t6B23EE6CC99B21C3EBD946352112832A70E67E25 * tmp = (SerializeField_t6B23EE6CC99B21C3EBD946352112832A70E67E25 *)cache->attributes[0];
+		SerializeField__ctor_mDE6A7673BA2C1FAD03CFEC65C6D473CC37889DD3(tmp, NULL);
+	}
+}
 static void SceneControl_tE9A1FA9C94DC7E033413FE6C1AE3C3507D6F009D_CustomAttributesCacheGenerator_panelGameOver(CustomAttributesCache* cache)
 {
 	{
@@ -372,6 +428,20 @@ static void SceneControl_tE9A1FA9C94DC7E033413FE6C1AE3C3507D6F009D_CustomAttribu
 	}
 }
 static void SceneControl_tE9A1FA9C94DC7E033413FE6C1AE3C3507D6F009D_CustomAttributesCacheGenerator_panelStart(CustomAttributesCache* cache)
+{
+	{
+		SerializeField_t6B23EE6CC99B21C3EBD946352112832A70E67E25 * tmp = (SerializeField_t6B23EE6CC99B21C3EBD946352112832A70E67E25 *)cache->attributes[0];
+		SerializeField__ctor_mDE6A7673BA2C1FAD03CFEC65C6D473CC37889DD3(tmp, NULL);
+	}
+}
+static void CountGetFuel_t7168060860CE11582B659B5E2EC0A22D3885AFA0_CustomAttributesCacheGenerator_textObj(CustomAttributesCache* cache)
+{
+	{
+		SerializeField_t6B23EE6CC99B21C3EBD946352112832A70E67E25 * tmp = (SerializeField_t6B23EE6CC99B21C3EBD946352112832A70E67E25 *)cache->attributes[0];
+		SerializeField__ctor_mDE6A7673BA2C1FAD03CFEC65C6D473CC37889DD3(tmp, NULL);
+	}
+}
+static void CountGetFuel_t7168060860CE11582B659B5E2EC0A22D3885AFA0_CustomAttributesCacheGenerator_posInitial(CustomAttributesCache* cache)
 {
 	{
 		SerializeField_t6B23EE6CC99B21C3EBD946352112832A70E67E25 * tmp = (SerializeField_t6B23EE6CC99B21C3EBD946352112832A70E67E25 *)cache->attributes[0];
@@ -464,12 +534,22 @@ static void Player_t5689617909B48F7640EA0892D85C92C13CC22C6F_CustomAttributesCac
 	}
 }
 IL2CPP_EXTERN_C const CustomAttributesCacheGenerator g_AssemblyU2DCSharp_AttributeGenerators[];
-const CustomAttributesCacheGenerator g_AssemblyU2DCSharp_AttributeGenerators[16] = 
+const CustomAttributesCacheGenerator g_AssemblyU2DCSharp_AttributeGenerators[26] = 
 {
+	CreateObj_tE5A8242D30AD1539E996C4833344AFAE638B2E8F_CustomAttributesCacheGenerator_wallPrefab,
+	CreateObj_tE5A8242D30AD1539E996C4833344AFAE638B2E8F_CustomAttributesCacheGenerator_points,
+	CreateObj_tE5A8242D30AD1539E996C4833344AFAE638B2E8F_CustomAttributesCacheGenerator_pointsFuel,
+	CreateObj_tE5A8242D30AD1539E996C4833344AFAE638B2E8F_CustomAttributesCacheGenerator_timeCountLimit,
+	CreateObj_tE5A8242D30AD1539E996C4833344AFAE638B2E8F_CustomAttributesCacheGenerator_timeCountLimitFuel,
+	CreateObj_tE5A8242D30AD1539E996C4833344AFAE638B2E8F_CustomAttributesCacheGenerator_fuelPrefab,
 	GameControl_t8DAFC60E5E51F6D61D77F480B91691765270D43A_CustomAttributesCacheGenerator_startGame,
 	GameControl_t8DAFC60E5E51F6D61D77F480B91691765270D43A_CustomAttributesCacheGenerator_countStartTxt,
+	GameControl_t8DAFC60E5E51F6D61D77F480B91691765270D43A_CustomAttributesCacheGenerator_countProgressTxt,
+	Scenary_tE44B449A3DB988D449CB65231127C22462D1BCD0_CustomAttributesCacheGenerator_speed,
 	SceneControl_tE9A1FA9C94DC7E033413FE6C1AE3C3507D6F009D_CustomAttributesCacheGenerator_panelGameOver,
 	SceneControl_tE9A1FA9C94DC7E033413FE6C1AE3C3507D6F009D_CustomAttributesCacheGenerator_panelStart,
+	CountGetFuel_t7168060860CE11582B659B5E2EC0A22D3885AFA0_CustomAttributesCacheGenerator_textObj,
+	CountGetFuel_t7168060860CE11582B659B5E2EC0A22D3885AFA0_CustomAttributesCacheGenerator_posInitial,
 	ParticleControl_tA9981E6A231E3B68690677618941A182C2F1EC90_CustomAttributesCacheGenerator_particleSys,
 	Player_t5689617909B48F7640EA0892D85C92C13CC22C6F_CustomAttributesCacheGenerator_radius,
 	Player_t5689617909B48F7640EA0892D85C92C13CC22C6F_CustomAttributesCacheGenerator_currentFuel,
